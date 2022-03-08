@@ -19,18 +19,10 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.1</generator>
-
-<image>
-	<url>/wp-content/uploads/2022/03/pydb3-150x150.png</url>
-	<title>Sin categoría &#8211; Mi Portafolio</title>
-	<link></link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>¡Hola mundo!</title>
 		<link>/2022/03/06/hola-mundo/</link>
-					<comments>/2022/03/06/hola-mundo/#comments</comments>
+					<comments>/2022/03/06/hola-mundo/#respond</comments>
 		
 		<dc:creator><![CDATA[AlfreVel]]></dc:creator>
 		<pubDate>Sun, 06 Mar 2022 21:24:31 +0000</pubDate>
@@ -43,7 +35,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2022/03/06/hola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
